@@ -3,6 +3,6 @@ opencv-python-headless
 numpy
 joblib
 scikit-image
-scikit-learn
 Pillow
 gTTS
+streamlit-mic-recorder
